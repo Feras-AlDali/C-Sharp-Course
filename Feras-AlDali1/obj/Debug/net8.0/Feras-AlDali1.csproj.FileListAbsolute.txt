@@ -1,0 +1,14 @@
+C:\Visual Studio AOL\1\Feras-AlDali1\bin\Debug\net8.0\Feras-AlDali1.exe
+C:\Visual Studio AOL\1\Feras-AlDali1\bin\Debug\net8.0\Feras-AlDali1.deps.json
+C:\Visual Studio AOL\1\Feras-AlDali1\bin\Debug\net8.0\Feras-AlDali1.runtimeconfig.json
+C:\Visual Studio AOL\1\Feras-AlDali1\bin\Debug\net8.0\Feras-AlDali1.dll
+C:\Visual Studio AOL\1\Feras-AlDali1\bin\Debug\net8.0\Feras-AlDali1.pdb
+C:\Visual Studio AOL\1\Feras-AlDali1\obj\Debug\net8.0\Feras-AlDali1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio AOL\1\Feras-AlDali1\obj\Debug\net8.0\Feras-AlDali1.AssemblyInfoInputs.cache
+C:\Visual Studio AOL\1\Feras-AlDali1\obj\Debug\net8.0\Feras-AlDali1.AssemblyInfo.cs
+C:\Visual Studio AOL\1\Feras-AlDali1\obj\Debug\net8.0\Feras-AlDali1.csproj.CoreCompileInputs.cache
+C:\Visual Studio AOL\1\Feras-AlDali1\obj\Debug\net8.0\Feras-AlDali1.dll
+C:\Visual Studio AOL\1\Feras-AlDali1\obj\Debug\net8.0\refint\Feras-AlDali1.dll
+C:\Visual Studio AOL\1\Feras-AlDali1\obj\Debug\net8.0\Feras-AlDali1.pdb
+C:\Visual Studio AOL\1\Feras-AlDali1\obj\Debug\net8.0\Feras-AlDali1.genruntimeconfig.cache
+C:\Visual Studio AOL\1\Feras-AlDali1\obj\Debug\net8.0\ref\Feras-AlDali1.dll
